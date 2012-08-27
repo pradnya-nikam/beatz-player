@@ -1,0 +1,7 @@
+*.iml
+*.idea
+*.ipr
+*.project
+*.class
+*.setting
+BeatzPlayer/out/
